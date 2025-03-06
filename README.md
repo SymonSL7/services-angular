@@ -2,7 +2,7 @@
 
 # Services Angular
 ## Descrição
-Neste projeto foi desenvolvimento uma aplicação com conexão com a API do [poke](https://pokeapi.co/), usando o service, para as configurações da comunicaçãocom a API.
+Neste projeto foi desenvolvimento uma aplicação com conexão com a API do [poke](https://pokeapi.co/), usando o service, para as configurações da comunicação com a API.
 
 ## Habilidades
 
