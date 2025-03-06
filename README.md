@@ -1,6 +1,37 @@
-# ServicesAngular
+# Symon Silva Lima
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
+# Services Angular
+## Descrição
+Neste projeto foi desenvolvimento uma aplicação com conexão com a API do [poke](https://pokeapi.co/), usando o service, para as configurações da comunicaçãocom a API.
+
+## Habilidades
+
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor)
+
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor)
+
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor)
+
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/symonsilvalima/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SymonSL7)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SymonSL7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+## Minhas Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SymonSL7&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SymonSL7/dio-lab-open-source)
+
 
 ## Development server
 
