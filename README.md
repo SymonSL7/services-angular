@@ -16,8 +16,6 @@ Neste projeto foi desenvolvimento uma aplicação com conexão com a API do [Pok
 
 ![Angular](https://img.shields.io/badge/Angular-0077B5?style=for-the-badge&logo=angular&logoColor)
 
-![Docker](https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=FFF)
-
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/symonsilvalima/)
